@@ -1,6 +1,6 @@
-# PDF Editor with Annotations
+# PDF Merger/Editor locally 
 
-A desktop PDF editor application built with PyQt5 that allows you to add text annotations, merge, and split PDF files.
+A desktop PDF editor application built with PyQt5 that allows you to add text , merge, and split PDF files. Even Images can be merged totether to make a pdf.
 
 #Project Status: Work in Progress
 **Note:** This application is currently under development. While core features like PDF merging and basic annotation work, some functionality may be incomplete or experimental. Feel free to contribute improvements!
